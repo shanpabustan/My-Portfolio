@@ -1,5 +1,5 @@
 export const personalInfo = {
-  name: "Shan Michael B. Pabustan",
+  name: "Shan Michael Pabustan",
   title: "Web Developer",
   description: "| ASP.NET & GO",
   email: "shanpabustan66@gmail.com",

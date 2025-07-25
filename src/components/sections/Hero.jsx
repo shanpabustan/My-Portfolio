@@ -234,7 +234,7 @@ const Hero = () => {
               transition={{ delay: 1, type: "spring", stiffness: 300 }}
               className="absolute -bottom-4 -right-4 px-4 py-2 bg-gray-900 dark:bg-white text-white dark:text-gray-900 text-sm font-semibold rounded-full shadow-lg flex items-center gap-2"
             >
-              <div className="w-2 h-2 bg-gray-300 dark:bg-gray-600 rounded-full animate-pulse" />
+              <div className="w-2 h-2 bg-green-300 dark:bg-green-600 rounded-full animate-pulse" />
               Available for work
             </motion.div>
           </motion.div>
